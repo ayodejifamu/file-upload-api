@@ -1,0 +1,15 @@
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/bin/Debug/net6.0/fileUploadApi.Core.deps.json
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/bin/Debug/net6.0/fileUploadApi.Core.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/bin/Debug/net6.0/fileUploadApi.Core.pdb
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.csproj.AssemblyReference.cache
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.AssemblyInfoInputs.cache
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.AssemblyInfo.cs
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.csproj.CoreCompileInputs.cache
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/refint/fileUploadApi.Core.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.pdb
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/ref/fileUploadApi.Core.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/bin/Debug/net6.0/fileUploadApi.SharedKernel.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/bin/Debug/net6.0/fileUploadApi.SharedKernel.pdb
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/Debug/net6.0/fileUploadApi.Core.csproj.CopyComplete

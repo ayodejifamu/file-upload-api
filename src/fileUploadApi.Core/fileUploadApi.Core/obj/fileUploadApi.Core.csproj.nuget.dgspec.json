@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj",
+        "projectName": "fileUploadApi.Core",
+        "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj",
+        "packagesPath": "/Users/ayodejifamuwagun/.nuget/packages/",
+        "outputPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayodejifamuwagun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj": {
+                "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj",
+        "projectName": "fileUploadApi.SharedKernel",
+        "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj",
+        "packagesPath": "/Users/ayodejifamuwagun/.nuget/packages/",
+        "outputPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayodejifamuwagun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

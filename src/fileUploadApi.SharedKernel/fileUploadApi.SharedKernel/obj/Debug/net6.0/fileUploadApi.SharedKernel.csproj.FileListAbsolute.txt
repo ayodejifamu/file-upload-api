@@ -1,0 +1,12 @@
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/bin/Debug/net6.0/fileUploadApi.SharedKernel.deps.json
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/bin/Debug/net6.0/fileUploadApi.SharedKernel.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/bin/Debug/net6.0/fileUploadApi.SharedKernel.pdb
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.csproj.AssemblyReference.cache
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.AssemblyInfoInputs.cache
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.AssemblyInfo.cs
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/refint/fileUploadApi.SharedKernel.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/fileUploadApi.SharedKernel.pdb
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/Debug/net6.0/ref/fileUploadApi.SharedKernel.dll

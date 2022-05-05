@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/fileUploadApi.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/fileUploadApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/fileUploadApi.Api.csproj",
+        "projectName": "fileUploadApi.Api",
+        "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/fileUploadApi.Api.csproj",
+        "packagesPath": "/Users/ayodejifamuwagun/.nuget/packages/",
+        "outputPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayodejifamuwagun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure.csproj": {
+                "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj",
+        "projectName": "fileUploadApi.Core",
+        "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj",
+        "packagesPath": "/Users/ayodejifamuwagun/.nuget/packages/",
+        "outputPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayodejifamuwagun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj": {
+                "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure.csproj",
+        "projectName": "fileUploadApi.Infrastructure",
+        "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure.csproj",
+        "packagesPath": "/Users/ayodejifamuwagun/.nuget/packages/",
+        "outputPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Infrastructure/fileUploadApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayodejifamuwagun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj": {
+                "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.Core/fileUploadApi.Core/fileUploadApi.Core.csproj"
+              },
+              "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj": {
+                "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj",
+        "projectName": "fileUploadApi.SharedKernel",
+        "projectPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel.csproj",
+        "packagesPath": "/Users/ayodejifamuwagun/.nuget/packages/",
+        "outputPath": "/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.SharedKernel/fileUploadApi.SharedKernel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayodejifamuwagun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
