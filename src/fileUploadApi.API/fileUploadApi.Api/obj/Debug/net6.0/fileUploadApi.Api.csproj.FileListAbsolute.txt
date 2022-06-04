@@ -63,3 +63,5 @@
 /Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/bin/Debug/net6.0/fileUploadApi.Infrastructure.pdb
 /Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/bin/Debug/net6.0/fileUploadApi.Core.pdb
 /Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/bin/Debug/net6.0/fileUploadApi.SharedKernel.pdb
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/bin/Debug/net6.0/Humanizer.dll
+/Users/ayodejifamuwagun/Projects/fileUploadApi1/src/fileUploadApi.API/fileUploadApi.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
